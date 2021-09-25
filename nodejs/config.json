@@ -1,0 +1,16 @@
+{
+    "db_hostname": "localhost",
+    "db_username": "wwwteamn_proflix",
+    "db_password": "Sparkles@5tish",
+    "db_dbname": "wwwteamn_proflix",
+    "site_url": "https:\/\/team-neaver.xyz",
+    "server_ip": "10.128.0.3",
+    "server_port": 4545,
+    "amazon": false,
+    "amazon_bucket": "",
+    "nodejs_message_update_interval": 500,
+    "ajax_message_update_interval": 3000,
+    "ssl": false,
+    "ssl_privatekey_full_path": "",
+    "ssl_cert_full_path": ""
+}
